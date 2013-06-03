@@ -10,4 +10,5 @@
   <project path="kernel/htc/mecha" name="jblack248/android_kernel_htc_mecha" />
   <project path="hardware/qcom/camera" name="jblack248/android_hardware_qcom_camera" />
   <project path="packages/apps/Camera" name="jblack248/android_packages_apps_Camera" />
+  <project path="vendor/htc/mecha-radio" name="jblack248/android_vendor_htc_mecha-radio" />
 </manifest>
