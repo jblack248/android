@@ -8,6 +8,6 @@
   <project path="device/htc/mecha" name="jblack248/android_device_htc_mecha" />
   <project path="device/htc/msm7x30-common" name="jblack248/android_device_htc_msm7x30-common" />
   <project path="kernel/htc/mecha" name="jblack248/android_kernel_htc_mecha" />
-  <project path="hardware/qcom/camera" name="ThePlayground/android_hardware_qcom_camera" />
+  <project path="hardware/qcom/camera" name="jblack248/android_hardware_qcom_camera" />
   <project path="packages/apps/Camera" name="jblack248/packages_apps_Camera" />
 </manifest>
