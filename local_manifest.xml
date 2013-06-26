@@ -7,8 +7,9 @@
   <project path="device/htc/common" name="jblack248/android_device_htc_common" />
   <project path="device/htc/mecha" name="jblack248/android_device_htc_mecha" />
   <project path="device/htc/msm7x30-common" name="jblack248/android_device_htc_msm7x30-common" />
-  <project path="kernel/htc/mecha" name="jblack248/android_kernel_htc_mecha" />
+  <project path="kernel/htc/mecha-ics-mr-3.0.16" name="santod/mecha-ics-mr-3.0.16" revision="refs/heads/master"/>
   <project path="hardware/qcom/camera" name="jblack248/android_hardware_qcom_camera" />
   <project path="packages/apps/Camera" name="jblack248/android_packages_apps_Camera" />
   <project path="vendor/htc/mecha-radio" name="jblack248/android_vendor_htc_mecha-radio" />
 </manifest>
+
