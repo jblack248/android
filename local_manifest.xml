@@ -16,4 +16,5 @@
   <project path="hardware/libhardware_legacy" name="Evervolv/android_hardware_libhardware_legacy" revision="refs/heads/jellybean" />
   <project path="hardware/qcom/display-legacy" name="Evervolv/android_hardware_qcom_display-legacy" revision="refs/heads/jellybean" />
   <project path="kernel/htc/mecha-3.0" name="santod/mecha-ics-mr-3.0.16" revision="refs/heads/master" />
+  <project path="vendor/htc/mecha" name="jblack248/android_vendor_htc_mecha" revision="refs/heads/jellybean" />
 </manifest>
