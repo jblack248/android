@@ -5,6 +5,7 @@
   <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_hardware_libhardware" />
   <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio-caf" />
 
   <project path="external/wpa_supplicant_8" name="Evervolv/android_external_wpa_supplicant_8" revision="refs/heads/jellybean" />
   <project path="device/htc/common" name="jblack248/android_device_htc_common" revision="refs/heads/jellybean" />
@@ -14,7 +15,10 @@
   <project path="frameworks/native" name="Evervolv/android_frameworks_native" revision="refs/heads/jellybean" />
   <project path="hardware/libhardware" name="Evervolv/android_hardware_libhardware" revision="refs/heads/jellybean" />
   <project path="hardware/libhardware_legacy" name="Evervolv/android_hardware_libhardware_legacy" revision="refs/heads/jellybean" />
+  <project path="hardware/qcom/audio-caf" name="Evervolv/android_hardware_qcom_audio-caf" revision="refs/heads/jellybean" />
   <project path="hardware/qcom/display-legacy" name="Evervolv/android_hardware_qcom_display-legacy" revision="refs/heads/jellybean" />
+  <project path="hardware/qcom/gps-legacy" name="Evervolv/android_hardware_qcom_gps-legacy" revision="refs/heads/jellybean" />
+  <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" revision="refs/heads/jellybean" />
   <project path="kernel/htc/msm7x30-3.0" name="Evervolv/android_kernel_htc_msm7x30-3.0" revision="refs/heads/jellybean" />
   <project path="vendor/htc/mecha" name="jblack248/android_vendor_htc_mecha" revision="refs/heads/jellybean" />
 </manifest>
