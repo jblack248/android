@@ -6,6 +6,7 @@
   <remove-project name="CyanogenMod/android_hardware_libhardware" />
   <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
   <remove-project name="CyanogenMod/android_hardware_qcom_audio-caf" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_gps" />
 
   <project path="external/wpa_supplicant_8" name="Evervolv/android_external_wpa_supplicant_8" revision="refs/heads/jellybean" />
   <project path="device/htc/mecha" name="jblack248/android_device_htc_mecha" revision="refs/heads/jellybean" />
