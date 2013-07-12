@@ -20,5 +20,5 @@
   <project path="hardware/qcom/gps-legacy" name="Evervolv/android_hardware_qcom_gps-legacy" revision="refs/heads/jellybean" />
   <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" revision="refs/heads/jellybean" />
   <project path="kernel/htc/msm7x30-3.0" name="Evervolv/android_kernel_htc_msm7x30-3.0" revision="refs/heads/jellybean" />
-  <project path="vendor/htc/mecha" name="LiquidMecha/android_vendor_htc_mecha" revision="refs/heads/jellybean" />
+  <project path="vendor/htc" name="LiquidMecha/android_vendor_htc" revision="refs/heads/jellybean" />
 </manifest>
